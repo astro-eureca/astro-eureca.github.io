@@ -2465,8 +2465,7 @@ input, select, textarea {
 
 	ol {
 		list-style: decimal;
-		margin: 0 0 0.5em 0;
-		/* margin: 0 0 2em 0; */
+		margin: 0 0 2em 0;
 		padding-left: 1.25em;
 	}
 
@@ -2666,7 +2665,8 @@ input, select, textarea {
 		ul.contact li {
 			text-decoration: none;
 			margin: 2.5em 0 0 0;
-			padding: 0 0 0 3.25em;
+			padding: 0 0 0 1em;
+			/* padding: 0 0 0 3.25em; */
 			position: relative;
 		}
 
