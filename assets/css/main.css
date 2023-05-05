@@ -3617,7 +3617,7 @@ input, select, textarea {
 	}
 
 	.wrapper {
-		background-color: #474747;
+		background-color: #FFFFFF;
 		/* background-color: #2e3141; */
 		margin: 6.5em 0;
 		position: relative;
@@ -3628,11 +3628,11 @@ input, select, textarea {
 		}
 
 		.wrapper:before {
-			box-shadow: inset 0 -1px 0 0 #2e3141, 0 1px 0 0 #2e3141;
+			box-shadow: inset 0 -1px 0 0 #FFFFFF, 0 1px 0 0 #FFFFFF;
 		}
 
 		.wrapper:after {
-			box-shadow: inset 0 -1px 0 0 #2e3141, 0 1px 0 0 #2e3141;
+			box-shadow: inset 0 -1px 0 0 #FFFFFF, 0 1px 0 0 #FFFFFF;
 		}
 
 		.wrapper:before, .wrapper:after {
