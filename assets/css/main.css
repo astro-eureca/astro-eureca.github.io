@@ -2515,6 +2515,26 @@
 					padding-top: 0;
 				}
 
+		ul.inline-list {
+			list-style: none;
+			padding-left: 0;
+		}
+
+			ul.inline-list li {
+				display: inline;
+				border-left: solid 1px #dddddd;
+				padding-left: 10px;
+				padding-right: 10px;
+				font-size: 1.25em;
+			}
+
+			ul.inline-list li:first-child {
+				border-left: 0;
+				margin-left: 0;
+				padding-left: 0;
+			}
+
+
 		ul.icons {
 			cursor: default;
 			list-style: none;
